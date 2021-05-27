@@ -8,8 +8,8 @@ L‎ÖVE was used as a fast 2-D game development framework, which provides modul
 * Replication of a quick PONG game
 ![Pong](images/pong.png)
 
-* You can download and play it!
-[Pong_Download](https://github.com/haileykr/game-making/PongH.exe)
+
+* Download **PongH.exe** and play it!
 <br/>
 
 * __*Concepts Covered*__
@@ -24,6 +24,8 @@ L‎ÖVE was used as a fast 2-D game development framework, which provides modul
         * "If opposite edges are apart, no collision happening." 
 * Sound Effects (w/ Bfxr)
     * Used Bfxr to generate simple game sounds and included them as audio files
+<br/>
+
 
 ## Mario
 * Replication of a Super Mario stage and movement
