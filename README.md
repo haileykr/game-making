@@ -6,7 +6,7 @@ Both games are created in Lua, the flexible, light-weight scripting language foc
 L‎ÖVE was used as a fast 2-D game development framework, which provides modules for graphics, math, audio, etc.
 
 ## Pong
-* Replication of a quick PONG game
+* Replication of a quick PONG game <br/>
 ![Pong](images/pong.png)
 
 
@@ -30,7 +30,7 @@ L‎ÖVE was used as a fast 2-D game development framework, which provides modul
 
 ## Mario
 * Replication of a Super Mario stage and movement
-* Made just for learning purpose, improvements needed
+* Made just for learning purpose, improvements needed<br/>
 ![Mario_Moving_GIF](images/mario_moving_gif.gif)
 ![Mario](images/mario.png)
 
