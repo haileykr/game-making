@@ -46,4 +46,4 @@ L‎ÖVE was used as a fast 2-D game development framework, which provides modul
     * Applying specific Y velocity to the avatar
 * Animation
     * Sprite Animation: current frame sprite is swapped with another frame, depending on how much time has elapsed and what that sprite animation interval is.
-    * Interval of 0.25 = 4 FPS
+   
