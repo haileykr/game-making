@@ -2,6 +2,7 @@
 Quick Games made in __Lua with L‎ÖVE__, based on __CS50 Class (Fall 2020, led by Colton Ogen @Harvard)__
 
 Both games are created in Lua, the flexible, light-weight scripting language focused around tables.
+<br />
 L‎ÖVE was used as a fast 2-D game development framework, which provides modules for graphics, math, audio, etc.
 
 ## Pong
